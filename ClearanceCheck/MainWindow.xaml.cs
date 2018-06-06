@@ -24,5 +24,10 @@ namespace ClearanceCheck
         {
             InitializeComponent();
         }
+
+        private void Compute_btn_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
