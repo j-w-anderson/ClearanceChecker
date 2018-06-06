@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClearanceCheck", "ClearanceCheck\ClearanceCheck.csproj", "{393EA69A-A724-4BE4-B265-6583138BAB5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{393EA69A-A724-4BE4-B265-6583138BAB5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{393EA69A-A724-4BE4-B265-6583138BAB5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{393EA69A-A724-4BE4-B265-6583138BAB5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{393EA69A-A724-4BE4-B265-6583138BAB5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F50F83E5-8835-4018-AAB5-1E5BA46C7681}
+	EndGlobalSection
+EndGlobal
